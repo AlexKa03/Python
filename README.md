@@ -22,3 +22,11 @@ This is a 100 day of Python coding Bootcamp.
 -   Games like Blackjack, Pong and Snake using Python
     
 -   Build GUIs and Desktop applications with Python
+
+## Files
+
+- **Day 1** [Band Name Generator](https://github.com/AlexKa03/Python/tree/main/Day1)
+- **Day 2** [Tip Calculator](https://github.com/AlexKa03/Python/tree/main/Day2)
+- **Day 3** [Treasure Island](https://github.com/AlexKa03/Python/tree/main/Day3)
+- **Day 4** [Rock Paper Scissors Game](https://github.com/AlexKa03/Python/tree/main/Day4)
+- **Day 5** [Tip Calculator](https://github.com/AlexKa03/Python/tree/main/Day5)
