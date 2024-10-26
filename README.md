@@ -7,6 +7,10 @@ This is a 100 day of Python coding Bootcamp.
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  </a>
+</p>
+
 # What is inside
 
 -   Master the Python programming language by building 100 unique projects over 100 days.
