@@ -3,11 +3,11 @@
 This is a 100 day of Python coding Bootcamp. 
 
 <p align="center">
-  <a href="https://github.com/search?q=repo%3AAlexKa03%2FPython%20language%3APython&type=code">
+  <a href="https://github.com/search?q=repo%3AAlexKa03%2FPython%20language%3APython&type=code" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 
-  <a href="https://www.jetbrains.com/pycharm/">
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=pycharm" />
   </a>
 </p>
