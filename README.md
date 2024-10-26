@@ -1,7 +1,11 @@
-# # 100 Days of Code: The Complete Python Pro Bootcamp
+# 100 Days of Code: The Complete Python Pro Bootcamp
 
 This is a 100 day of Python coding Bootcamp. 
 
+<p align="center">
+  <a href="https://github.com/search?q=repo%3AAlexKa03%2FPython%20language%3APython&type=code">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 
 # What is inside
 
