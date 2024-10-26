@@ -8,7 +8,7 @@ This is a 100 day of Python coding Bootcamp.
   </a>
 
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=pycharm" />
   </a>
 </p>
 
