@@ -34,9 +34,9 @@ This is a 100 day of Python coding Bootcamp.
 
 ## Files
 
-- **Day 1** [Band Name Generator](https://github.com/AlexKa03/Python/tree/main/Day1)
-- **Day 2** [Tip Calculator](https://github.com/AlexKa03/Python/tree/main/Day2)
-- **Day 3** [Treasure Island](https://github.com/AlexKa03/Python/tree/main/Day3)
-- **Day 4** [Rock Paper Scissors Game](https://github.com/AlexKa03/Python/tree/main/Day4)
+- **Day 1** [Band Name Generator](https://github.com/AlexKa03/Python/blob/main/Day1/Band%20Name%20Generator.py)
+- **Day 2** [Tip Calculator](https://github.com/AlexKa03/Python/blob/main/Day2/Tip%20Calculator.py)
+- **Day 3** [Treasure Island](https://github.com/AlexKa03/Python/blob/main/Day3/Treasure%20Island.py)
+- **Day 4** [Rock Paper Scissors Game](https://github.com/AlexKa03/Python/blob/main/Day4/Rock%20Paper%20Scissors%20Game.py)
 - **Day 5** [Tip Calculator](https://github.com/AlexKa03/Python/tree/main/Day5)
 - **Day 6** [Reeborg's World (WebSite Loop Game)](https://github.com/AlexKa03/Python/tree/main/Day6)
