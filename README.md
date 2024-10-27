@@ -38,5 +38,5 @@ This is a 100 day of Python coding Bootcamp.
 - **Day 2** [Tip Calculator](https://github.com/AlexKa03/Python/blob/main/Day2/Tip%20Calculator.py)
 - **Day 3** [Treasure Island](https://github.com/AlexKa03/Python/blob/main/Day3/Treasure%20Island.py)
 - **Day 4** [Rock Paper Scissors Game](https://github.com/AlexKa03/Python/blob/main/Day4/Rock%20Paper%20Scissors%20Game.py)
-- **Day 5** [Tip Calculator](https://github.com/AlexKa03/Python/tree/main/Day5)
+- **Day 5** [Password GGenerator - 2 Versions](https://github.com/AlexKa03/Python/tree/main/Day5)
 - **Day 6** [Reeborg's World (WebSite Loop Game)](https://github.com/AlexKa03/Python/tree/main/Day6)
