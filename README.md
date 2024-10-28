@@ -40,3 +40,6 @@ This is a 100 day of Python coding Bootcamp.
 - **Day 4** [Rock Paper Scissors Game](https://github.com/AlexKa03/Python/blob/main/Day4/Rock%20Paper%20Scissors%20Game.py)
 - **Day 5** [Password Generator - 2 Versions](https://github.com/AlexKa03/Python/tree/main/Day5)
 - **Day 6** [Reeborg's World (WebSite Loop Game)](https://github.com/AlexKa03/Python/tree/main/Day6)
+- **Day 7** [Hangman](https://github.com/AlexKa03/Python/tree/main/Day7)
+- **Day 8** [Caesar Cipher](https://github.com/AlexKa03/Python/blob/main/Day8/Caesar%20Cipher.py)
+- **Day 9** [Blind Auction](https://github.com/AlexKa03/Python/tree/main/Day9)
