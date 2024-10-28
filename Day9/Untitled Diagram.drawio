@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="nQZRquSdbaFc6r68uGmR">
+    <mxGraphModel dx="1585" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-1" target="1GBQkVJRTH88GYz7Jjr3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="10" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-3" target="1GBQkVJRTH88GYz7Jjr3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-3" value="Ask for Name" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="80" width="112" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-5" target="1GBQkVJRTH88GYz7Jjr3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-5" value="Ask for Bid" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370.25" y="150" width="110.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-7" target="1GBQkVJRTH88GYz7Jjr3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-7" value="Add the Name and Bid to the dictionary" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="220" width="109" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-13" target="1GBQkVJRTH88GYz7Jjr3-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="325" y="480" />
+              <mxPoint x="250" y="480" />
+              <mxPoint x="250" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-10" target="1GBQkVJRTH88GYz7Jjr3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GBQkVJRTH88GYz7Jjr3-14">
+          <mxGeometry x="-0.4006" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1GBQkVJRTH88GYz7Jjr3-10" target="1GBQkVJRTH88GYz7Jjr3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1GBQkVJRTH88GYz7Jjr3-17">
+          <mxGeometry x="0.0046" relative="1" as="geometry">
+            <mxPoint x="-13" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-10" value="Ask if there are other people to bid" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-13" value="Clear the console" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBQkVJRTH88GYz7Jjr3-16" value="Check which user had the highest bid and announce it" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="483" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
