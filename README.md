@@ -45,3 +45,4 @@ This is a 100 day of Python coding Bootcamp.
 - **Day   9** [Blind Auction](https://github.com/AlexKa03/Python/tree/main/Day9)
 - **Day  10** [Calculator](https://github.com/AlexKa03/Python/tree/main/Day010)
 - **Day  11** [Blackjack](https://github.com/AlexKa03/Python/tree/main/Day011)
+- **Day  12** [Guess The Number](https://github.com/AlexKa03/Python/tree/main/Day012)
