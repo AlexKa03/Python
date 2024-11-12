@@ -46,3 +46,5 @@ This is a 100 day of Python coding Bootcamp.
 - **Day  10** [Calculator](https://github.com/AlexKa03/Python/tree/main/Day010)
 - **Day  11** [Blackjack](https://github.com/AlexKa03/Python/tree/main/Day011)
 - **Day  12** [Guess The Number](https://github.com/AlexKa03/Python/tree/main/Day012)
+- **Day  13** [NO EXCERCISE- DEBUGGER](https://github.com/AlexKa03/Python/tree/main/Day013)
+- **Day  14** [Higher/ Lower Game](https://github.com/AlexKa03/Python/tree/main/Day014)
