@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="Rfsf3Efw2rYsLXQI4Jq4">
+    <mxGraphModel dx="1177" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LJCkqYDNh6F-6-07m92X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-1" target="LJCkqYDNh6F-6-07m92X-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="10" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-2" target="LJCkqYDNh6F-6-07m92X-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-2" value="Get the first celebrity" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="80" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-4" target="LJCkqYDNh6F-6-07m92X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-4" value="Get the second celebrity" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="150" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-8" target="LJCkqYDNh6F-6-07m92X-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJCkqYDNh6F-6-07m92X-11">
+          <mxGeometry x="-0.1929" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-8" target="LJCkqYDNh6F-6-07m92X-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJCkqYDNh6F-6-07m92X-14">
+          <mxGeometry x="0.2057" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-8" value="Did the user guessed who&amp;nbsp;&lt;div&gt;has more&lt;/div&gt;&lt;div&gt;followers&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-10" value="GAME OVER" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-13" target="LJCkqYDNh6F-6-07m92X-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-13" value="Count the correct guess" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJCkqYDNh6F-6-07m92X-16" target="LJCkqYDNh6F-6-07m92X-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJCkqYDNh6F-6-07m92X-16" value="Make the second celebrity, the first one" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
