@@ -48,3 +48,5 @@ This is a 100 day of Python coding Bootcamp.
 - **Day  12** [Guess The Number](https://github.com/AlexKa03/Python/tree/main/Day012)
 - **Day  13** [NO EXCERCISE- DEBUGGER](https://github.com/AlexKa03/Python/tree/main/Day013)
 - **Day  14** [Higher/ Lower Game](https://github.com/AlexKa03/Python/tree/main/Day014)
+- **Day  15** [Coffee Machine](https://github.com/AlexKa03/Python/blob/main/Day015)
+- **Day  16** [Coffee Machine OOP](https://github.com/AlexKa03/Python/tree/main/Day016)
