@@ -7,7 +7,7 @@ DOWN = 270
 LEFT = 180
 RIGHT = 0
 
-class Snake():
+class Snake:
     def __init__(self):
         self.snake_body = []
         self.create_snake()
@@ -18,7 +18,7 @@ class Snake():
             self.snake_body.append(Turtle(shape="square"))
             self.snake_body[i].penup()
             self.snake_body[i].color("white")
-            self.snake_body[i].goto(y=0, x=i * (BODY_PART_POSITION))
+            self.snake_body[i].goto(y=0, x=i * BODY_PART_POSITION)
 
     def move(self):
         for body in range(len(self.snake_body) - 1, 0, -1):
