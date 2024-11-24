@@ -10,6 +10,10 @@ This is a 100 day of Python coding Bootcamp.
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://skillicons.dev/icons?i=pycharm" />
   </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
 # What is inside
@@ -53,3 +57,4 @@ This is a 100 day of Python coding Bootcamp.
 - **Day  17** [Quiz Game](https://github.com/AlexKa03/Python/tree/main/Day017)
 - **Day  18** [Hirst Painting](https://github.com/AlexKa03/Python/tree/main/Day018)
 - **Day  19** [Turtle Race](https://github.com/AlexKa03/Python/tree/main/Day019)
+- **Day  20** [Snake Game- Base](https://github.com/AlexKa03/Python/tree/main/Day020)
